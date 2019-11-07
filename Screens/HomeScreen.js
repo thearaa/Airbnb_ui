@@ -76,6 +76,7 @@ export class HomeScreen extends Component {
                             </View>
                         </View>
                     </View>
+                    <Text> I'm Batman</Text>
                 </ScrollView>
             </SafeAreaView>
         );
